@@ -14,9 +14,11 @@
 ![image](https://github.com/user-attachments/assets/a07a6183-1a62-4d52-bb13-feadf185fa4a)
 
 고스트 블록: 블록이 떨어질 위치를 미리 보여줍니다.
+
 ![image](https://github.com/user-attachments/assets/4ba75d59-4768-4dd3-845f-4665698193cd)
 
 홀드 기능: 전략적 플레이를 위해 블록을 임시 저장합니다.
+
 ![image](https://github.com/user-attachments/assets/7473a169-80b7-490d-a44d-4f55ca9f8a2a)
 
 점수 및 레벨 시스템: 라인을 클리어할 때마다 점수를 획득하고 레벨업합니다.
